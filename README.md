@@ -1,10 +1,23 @@
 # Portfolio
-Microverse portfolio project
+
+> Microverse portfolio project
 
 ## Built With
 
 -   HTML, CSS
--   linters
+
+## Getting Started
+
+- Click on the clone button to copy the clone
+- Open Terminal and run git clone "Copied link"
+- Clone the repo
+- From you terminal run " code ." to open in your code editor.
+
+## Sneak peek to my Portfolio Project
+
+- Portfolio: [Ahmad Sarfraz](https://github.com/ahmadsarfrazx/Portfolio)
+
+**Setting up My Personal Portolio task**
 
 ## Authors
 
