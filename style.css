@@ -227,6 +227,7 @@ h2 {
   font-size: 32px;
   line-height: 44px;
    margin-bottom: 10px;
+   float: left;
 }
 
 .list_items {
