@@ -17,6 +17,7 @@ a {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
 }
 
 body {
@@ -375,7 +376,7 @@ h2 {
 
 .p-contact {
   font-style: normal;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 18px;
   line-height: 28px;
   text-align: center;
@@ -416,10 +417,6 @@ h2 {
   padding: 10px 15px;
 }
 
-.contact-bar {
-  text-align: center;
-}
-
 .btncontact {
   width: 140px;
   height: 48px;
@@ -430,6 +427,7 @@ h2 {
   font-size: 17px;
   font-weight: 500;
   background-color: white;
+  margin-bottom: 45px;
 }
 
 .btncontact:hover {
@@ -439,9 +437,4 @@ h2 {
   font-size: 17px;
   transition: 100ms;
   cursor: pointer;
-}
-
-.end-line {
-  margin-top: 30px;
-  margin-bottom: 2px;
 }
