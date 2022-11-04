@@ -184,6 +184,16 @@ html {
   align-self: center;
 }
 
+.Snapshoot:hover {
+  transform: scale(1.03);
+  transition: 1.2s ease-in;
+}
+
+.Tonic:hover {
+  transform: scale(1.03);
+  transition: 1.2s ease-in;
+}
+
 h2 {
   width: 295px;
   height: 36px;
