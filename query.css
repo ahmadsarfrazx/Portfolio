@@ -84,7 +84,7 @@
   .card {
     background-color: white;
     display: flex;
-    height: 400px;
+    height: 600px;
     width: 85%;
     padding: 24px;
 
@@ -103,7 +103,7 @@
   .preview img {
     margin-top: 10px;
     width: 100%;
-    height: 350px;
+    height: 448px;
   }
 
   .desktop-details,
@@ -214,13 +214,11 @@
     display: none;
   }
 
-  /* end card */
-
-  /* about */
   .about {
     display: flex;
     align-items: baseline;
     width: 100%;
+    border-top-right-radius: 50px;
   }
 
   .about-left-section {
@@ -251,13 +249,23 @@
     width: 100%;
   }
 
+  .about_ui {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    list-style: none;
+    margin-left: 100px;
+    border-bottom: 1px solid #c6c6c6;
+  }
+
   .ul_item {
     position: relative;
-    width: 100px;
+    width: 122px;
+    height: 120px;
     bottom: -20px;
     flex-wrap: wrap;
     right: 120px;
-    margin: 20px 5px 20px 5px;
+    margin: 20px 20px 20px 5px;
   }
 
   #icons {

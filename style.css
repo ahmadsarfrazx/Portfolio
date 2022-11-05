@@ -15,8 +15,6 @@ a {
 
 .container {
   margin: auto;
-  width: 375px;
-  height: 718px;
   border-bottom-left-radius: 7%;
   padding-top: 30px;
 }
@@ -38,7 +36,6 @@ nav {
   font-weight: 700;
   font-size: 18px;
   color: #6070ff;
-  transform: rotate(-5deg);
 }
 
 .hero {
@@ -198,6 +195,7 @@ nav {
   display: grid;
   row-gap: 15px;
   padding: 0 15px;
+  border-top-right-radius: 50px;
 }
 
 .about .headline_title {
@@ -213,6 +211,14 @@ nav {
   flex-direction: column;
   padding: 10px;
   list-style: none;
+}
+
+.about_ui {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  list-style: none;
+  margin-left: 10px;
   border-bottom: 1px solid #c6c6c6;
 }
 
@@ -253,7 +259,7 @@ nav {
 
 .ul_item img {
   width: 40px;
-  margin-right: 20px;
+  margin-right: 40px;
 }
 
 .contact-form {
