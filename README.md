@@ -15,7 +15,7 @@
 
 ## Sneak peek to my Portfolio Project
 
-- Portfolio: [Ahmad Sarfraz](https://github.com/ahmadsarfrazx/Portfolio)
+- Portfolio: [Ahmad Sarfraz](https://ahmadsarfrazx.github.io/Portfolio/)
 
 **Setting up My Personal Portolio task**
 
